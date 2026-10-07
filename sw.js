@@ -4,7 +4,7 @@
 /* IMPORTANTE: sube este número cada vez que publiques una versión nueva.
    Si no lo cambias, los móviles que ya instalaron el juego seguirán usando
    la copia vieja de la caché y no verán tus cambios.                     */
-const CACHE = 'filo-de-hierro-v4';
+const CACHE = 'filo-de-hierro-v5';
 const ARCHIVOS = [
   'index.html',
   'manifest.webmanifest',
